@@ -114,14 +114,15 @@ During pre-production and level design, a three-level campaign was planned acros
 
 ---
 
-##Download & Installation
-Visit the Releases page.
+## Download & Installation
 
-Download StarBreak-2.0-Windows.zip.
+1. Visit the **[Releases](Need to update my link here)** page.
+2. Download **`StarBreak-2.0-Windows.zip`**.
+3. Extract the `.zip` archive to a folder on your Windows PC.
+4. Run the executable inside the extracted folder. *(If Windows SmartScreen prompts on an unsigned build, select **More info** → **Run anyway**.)*
 
-Extract the .zip archive to a folder on your Windows PC.
+---
 
-Run the executable inside the extracted folder. (If Windows SmartScreen prompts on an unsigned build, select More info → Run anyway.)
+## Acknowledgements & Credits
 
-##Acknowledgements & Credits
-#Midnite Oil Software LLC (YouTube): Core space flight physics, ship control abstractions, and PID-based enemy fighter AI concepts were referenced from Midnite Oil Software LLC – How to make a 3D Space Shooter Game in Unity. I adapted and modified these systems—including enemy combat behavior, player controls and boost/capacitor mechanics, visuals, attack patterns, and the multi-phase Commander Ship encounter—to fit StarBreak 2.0.
+- **Midnite Oil Software LLC (YouTube):** Core space flight physics, ship control abstractions, and PID-based enemy fighter AI concepts were referenced from [Midnite Oil Software LLC – *How to make a 3D Space Shooter Game in Unity*](https://www.youtube.com/watch?v=mfbwBqlZK4M). I adapted and modified these systems—including enemy combat behavior, player controls and boost/capacitor mechanics, visuals, attack patterns, and the multi-phase Commander Ship encounter—to fit **StarBreak 2.0**
