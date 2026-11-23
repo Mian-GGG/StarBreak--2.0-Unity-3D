@@ -116,7 +116,7 @@ During pre-production and level design, a three-level campaign was planned acros
 
 ## Download & Installation
 
-1. Visit the **[Releases](Need to update my link here)** page.
+1. Visit the **[Releases](https://github.com/Mian-GGG/StarBreak--2.0-Unity-3D/releases/tag/v1.0)** page.
 2. Download **`StarBreak-2.0-Windows.zip`**.
 3. Extract the `.zip` archive to a folder on your Windows PC.
 4. Run the executable inside the extracted folder. *(If Windows SmartScreen prompts on an unsigned build, select **More info** → **Run anyway**.)*
